@@ -6,8 +6,8 @@ The data pipeline is designed using Pandas to extract data directly from Kaggle 
 This project is ideal for data analysts looking to enhance their skills in data manipulation, SQL querying, and building efficient data pipelines.
 
 ## Requirements
-  - [Python] 
-  - [SQL Databases: MySQL]
--  [Python Libraries:]
-     -[pandas, sqlalchemy, mysql-connector-python]
- -[Kaggle API Key (for data downloading)]
+  - Python
+  - SQL Databases: MySQL
+-  Python Libraries:
+   -pandas, sqlalchemy, mysql-connector-python
+ - Kaggle API Key (for data downloading)
